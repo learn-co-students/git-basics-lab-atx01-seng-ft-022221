@@ -189,3 +189,9 @@ work!
 
 [github]: https://github.com/
 [pr]: https://help.github.com/en/articles/about-pull-requests
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:KitchiHerbst/TESTREPO.git
+git push -u origin main
